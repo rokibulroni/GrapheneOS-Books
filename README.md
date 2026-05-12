@@ -1,92 +1,154 @@
-﻿
-# **GrapheneOS Books**
+# GrapheneOS Books
 
-**Free books, guides, and references for GrapheneOS, mobile privacy, Android hardening, and secure device operations.**
+Free books, guides, and references for **GrapheneOS**, **mobile privacy**, **Android hardening**, and **secure device operations**.
 
-## **About**
+> A community-friendly library for people who want to learn practical mobile security and privacy—focused on GrapheneOS and real-world Android defense.
 
-This repository is a public, community-friendly library for people who want to learn GrapheneOS, mobile security, privacy hardening, and practical Android defense. It is designed to make the books easy to discover, easy to share, and easy to read for free.
+---
 
-* [About](#bookmark=id.kgaepiqj0yqp)  
-* [Book List & Downloads](#bookmark=id.ncgd7lz9quk5)  
-* [Repository Structure](#bookmark=id.1l3y76erahjx)  
-* [How to Use This Repo](#bookmark=id.jf48aq6dl44)  
-* [Quick Links](#bookmark=id.25fj6kb8bup7)  
-* [Contributing](#bookmark=id.p43x8zvykduh)  
-* [Support the Project](#bookmark=id.bipvyr5r7a4t)  
-* [Author & Contact](#bookmark=id.5mg9krtdikzz)  
-* [Disclaimer & License](#bookmark=id.9op8ue8w529b)
+## Table of contents
 
-## **📚 Book List & Downloads**
+- [About](#about)
+- [Book list & downloads](#book-list--downloads)
+- [Repository structure](#repository-structure)
+- [How to use this repo](#how-to-use-this-repo)
+- [Quick links](#quick-links)
+- [Contributing](#contributing)
+- [Support the project](#support-the-project)
+- [Author & contact](#author--contact)
+- [Disclaimer & license](#disclaimer--license)
 
-### **1\. The Digital Panopticon**
+---
 
-**GrapheneOS: The Definitive Guide to Mobile Security** \> *By Rokibul Islam Roni*
+## About
 
-#### **📥 Digital Editions (Free)**
+This repository is a public, community-friendly library for people who want to learn:
 
-* 🌐 [**Read on Author Website**](https://gos.rokibulroni.com/books/the-digital-panopticon/)  
-* 📱 [**Google Play Books**](https://play.google.com/store/books/details/Rokibul_Islam_Roni_The_Digital_Panopticon?id=ckTXEQAAQBAJ)
+- GrapheneOS basics and advanced usage
+- Mobile privacy and threat modeling
+- Android hardening and safe operational practices
+- Practical defensive techniques for everyday users
 
-#### **🛒 Kindle Editions (Amazon)**
+The goal is to keep downloads and references **easy to find**, **well organized**, and **shareable**.
 
-| Region | Country | Store Link | Region | Country | Store Link |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-| 🇺🇸 | **United States** | [Amazon US](https://www.amazon.com/dp/B0H18VFNWR) | 🇳🇱 | **Netherlands** | [Amazon NL](https://www.amazon.nl/dp/B0H18VFNWR) |
-| 🇬🇧 | **United Kingdom** | [Amazon UK](https://www.amazon.co.uk/dp/B0H18VFNWR) | 🇯🇵 | **Japan** | [Amazon JP](https://www.amazon.co.jp/dp/B0H18VFNWR) |
-| 🇩🇪 | **Germany** | [Amazon DE](https://www.amazon.de/dp/B0H18VFNWR) | 🇧🇷 | **Brazil** | [Amazon BR](https://www.amazon.com.br/dp/B0H18VFNWR) |
-| 🇫🇷 | **France** | [Amazon FR](https://www.amazon.fr/dp/B0H18VFNWR) | 🇨🇦 | **Canada** | [Amazon CA](https://www.amazon.ca/dp/B0H18VFNWR) |
-| 🇪🇸 | **Spain** | [Amazon ES](https://www.amazon.es/dp/B0H18VFNWR) | 🇲🇽 | **Mexico** | [Amazon MX](https://www.amazon.com.mx/dp/B0H18VFNWR) |
-| 🇮🇹 | **Italy** | [Amazon IT](https://www.amazon.it/dp/B0H18VFNWR) | 🇦🇺 | **Australia** | [Amazon AU](https://www.amazon.com.au/dp/B0H18VFNWR) |
+---
 
+## Book list & downloads
 
-## **💡 How to Use This Repo**
+### 1) The Digital Panopticon
 
-1. Open the folder that matches the book you want.  
-2. Read the README.md inside that folder (if applicable).  
-3. Download the PDF or EPUB in your preferred language.  
-4. Share the repo link with others who may benefit\!
+**GrapheneOS: The Definitive Guide to Mobile Security** — *by Rokibul Islam Roni*
 
-### **✨ Features**
+#### Digital editions (free)
 
-* Free educational resources & clean markdown structure.  
-* Direct URLs & global Amazon store links.  
-* Contribution-friendly layout ready for translations and mirror pages.
+- **Read on author website:** https://gos.rokibulroni.com/books/the-digital-panopticon/
+- **Google Play Books:** https://play.google.com/store/books/details/Rokibul_Islam_Roni_The_Digital_Panopticon?id=ckTXEQAAQBAJ
 
-## **🔗 Quick Links**
+#### Kindle editions (Amazon)
 
-* 🛡️ **Official GrapheneOS website:** https://grapheneos.org/  
-* 💾 **Installation guide:** https://grapheneos.org/install/web  
-* 📦 **Releases:** https://releases.grapheneos.org/  
-* 🔍 **Auditor app info:** https://grapheneos.org/usage\#auditor  
-* 🛒 **App repository:** https://grapheneos.org/usage\#app-store
+| Region | Country | Store link |
+| :---: | --- | --- |
+| 🇺🇸 | United States | https://www.amazon.com/dp/B0H18VFNWR |
+| 🇬🇧 | United Kingdom | https://www.amazon.co.uk/dp/B0H18VFNWR |
+| 🇩🇪 | Germany | https://www.amazon.de/dp/B0H18VFNWR |
+| 🇫🇷 | France | https://www.amazon.fr/dp/B0H18VFNWR |
+| 🇪🇸 | Spain | https://www.amazon.es/dp/B0H18VFNWR |
+| 🇮🇹 | Italy | https://www.amazon.it/dp/B0H18VFNWR |
+| 🇳🇱 | Netherlands | https://www.amazon.nl/dp/B0H18VFNWR |
+| 🇯🇵 | Japan | https://www.amazon.co.jp/dp/B0H18VFNWR |
+| 🇧🇷 | Brazil | https://www.amazon.com.br/dp/B0H18VFNWR |
+| 🇨🇦 | Canada | https://www.amazon.ca/dp/B0H18VFNWR |
+| 🇲🇽 | Mexico | https://www.amazon.com.mx/dp/B0H18VFNWR |
+| 🇦🇺 | Australia | https://www.amazon.com.au/dp/B0H18VFNWR |
 
-## **🤝 Contributing & Support**
+---
 
-Contributions are welcome\! Please open an issue first for major changes. You can help by:
+## Repository structure
 
-* Improving grammar and fixing broken links.  
-* Adding translations or more references.  
-* Suggesting better organization.
+Files are organized by **book**, then by **language** and **format**.
 
-**Support the Project:** If you support free cybersecurity education and privacy awareness, consider **starring ⭐️** and sharing this repository\!
+```text
+.
+├── README.md
+├── books/
+│   └── the-digital-panopticon/
+│       ├── The Digital Panopticon GrapheneOS (Cover).jpg
+│       ├── The Digital Panopticon GrapheneOS (Bangla).epub
+│       ├── The Digital Panopticon GrapheneOS (Bangla).pdf
+│       ├── The Digital Panopticon GrapheneOS (English).epub
+│       └── The Digital Panopticon GrapheneOS (English).pdf
+└── LICENSE
+```
 
-## **👨‍💻 Author & Contact**
+---
+
+## How to use this repo
+
+1. Open the folder for the book you want.
+2. Download the **PDF** or **EPUB** in your preferred language.
+3. Share the repository link with anyone who may benefit.
+
+### Features
+
+- Clean, readable Markdown and a simple folder layout
+- Direct download files inside the repository
+- Store links for global availability
+- Translation-friendly structure for future contributions
+
+---
+
+## Quick links
+
+- **Official GrapheneOS website:** https://grapheneos.org/
+- **Install guide:** https://grapheneos.org/install/web
+- **Releases:** https://releases.grapheneos.org/
+- **Auditor app:** https://grapheneos.org/usage#auditor
+- **App repository:** https://grapheneos.org/usage#app-store
+
+---
+
+## Contributing
+
+Contributions are welcome.
+
+- Fix typos / grammar
+- Report broken links
+- Suggest better structure or additional references
+- Add translations or new books (if you have rights to share them)
+
+For major changes, please open an issue first.
+
+---
+
+## Support the project
+
+If you find this repository helpful:
+
+- ⭐ Star the repo
+- 🔁 Share it with others
+- 🧾 Suggest improvements via issues or pull requests
+
+---
+
+## Author & contact
 
 **Rokibul Islam Roni**
 
-* 🌍 **Website:** [gos.rokibulroni.com](https://gos.rokibulroni.com)  
-* 📧 **Email:** [mail@rokibulroni.com](mailto:mail@rokibulroni.com)  
-* 💻 **GitHub:** [@rokibulroni](https://github.com/rokibulroni/)
+- Website: https://gos.rokibulroni.com
+- Email: mail@rokibulroni.com
+- GitHub: https://github.com/rokibulroni/
 
-## **⚖️ Disclaimer & License**
+---
 
-**Disclaimer:** This repository is an independent educational resource. It is not officially affiliated with the GrapheneOS Foundation. All trademarks, names, and logos belong to their respective owners.
+## Disclaimer & license
 
-**License:**
+### Disclaimer
 
-* **Content:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) or CC BY-NC 4.0  
-* **Code / layout:** MIT
+This repository is an independent educational resource and is **not officially affiliated** with the GrapheneOS Foundation. All trademarks, names, and logos belong to their respective owners.
 
-*See the [LICENSE](http://docs.google.com/LICENSE) file for more details.*
+### License
 
+- **Content:** CC BY 4.0 (or CC BY-NC 4.0)
+- **Code / layout:** MIT
+
+See the [LICENSE](LICENSE) file for details.
