@@ -39,21 +39,6 @@ This repository is a public, community-friendly library for people who want to l
 | 🇪🇸 | **Spain** | [Amazon ES](https://www.amazon.es/dp/B0H18VFNWR) | 🇲🇽 | **Mexico** | [Amazon MX](https://www.amazon.com.mx/dp/B0H18VFNWR) |
 | 🇮🇹 | **Italy** | [Amazon IT](https://www.amazon.it/dp/B0H18VFNWR) | 🇦🇺 | **Australia** | [Amazon AU](https://www.amazon.com.au/dp/B0H18VFNWR) |
 
-## **📂 Repository Structure**
-
-The files are organized by language (English and Bengali) and format (EPUB and PDF).
-
-.  
-.
-├── README.md
-├── books/
-│   └── the-digital-panopticon/
-│       ├── The Digital Panopticon GrapheneOS (Cover).jpg
-│       ├── The Digital Panopticon GrapheneOS (Bangla).epub
-│       ├── The Digital Panopticon GrapheneOS (Bangla).pdf
-│       ├── The Digital Panopticon GrapheneOS (English).epub
-│       └── The Digital Panopticon GrapheneOS (English).pdf
-└── LICENSE
 
 ## **💡 How to Use This Repo**
 
