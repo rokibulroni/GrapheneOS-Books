@@ -1,0 +1,92 @@
+License Agreement for GrapheneOS Books
+
+Copyright (c) 2026 Rokibul Islam Roni
+
+This repository contains two distinct types of work, each licensed separately.
+
+===============================================================================
+1. Code, Repository Structure, Markdown Layout, and Non-Book Assets
+MIT License
+===============================================================================
+
+Applies to:
+- Repository structure
+- Markdown files
+- README layouts
+- Folder organization
+- GitHub workflow files
+- Non-book code snippets
+- Automation/configuration files
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+===============================================================================
+2. Book Content, PDF Files, EPUB Files, and Cover Artwork
+Creative Commons Attribution-NonCommercial 4.0 International
+(CC BY-NC 4.0)
+===============================================================================
+
+Applies to:
+- All written book content
+- PDF files
+- EPUB files
+- Cover images
+- Book illustrations
+- Content inside the books/ directory
+
+You are free to:
+
+- Share:
+  Copy and redistribute the material in any medium or format.
+
+- Adapt:
+  Remix, transform, and build upon the material.
+
+Under the following terms:
+
+- Attribution:
+  You must give appropriate credit, provide a link to the license,
+  and indicate if changes were made.
+
+- NonCommercial:
+  You may NOT use the material for commercial purposes.
+  You may not sell, repackage, monetize, or charge money
+  for access to the books or their contents.
+
+Additional Conditions:
+
+- You may freely share the books for educational purposes.
+- You may mirror or archive the books non-commercially.
+- Commercial redistribution without written permission is prohibited.
+
+Full License:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+===============================================================================
+Repository
+===============================================================================
+
+GitHub Repository:
+https://github.com/rokibulroni/GrapheneOS-Books/
+
+Official Documentation:
+https://gos.rokibulroni.com
+
+Latest Released Books:
+https://gos.rokibulroni.com/books/
