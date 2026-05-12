@@ -41,7 +41,7 @@ The goal is to keep downloads and references **easy to find**, **well organized*
 
 #### Digital editions (free)
 
-- **Read on author website:** https://gos.rokibulroni.com/books/the-digital-panopticon/
+- **Read on author website (English & Bangla publications):** https://gos.rokibulroni.com/books/
 - **Google Play Books:** https://play.google.com/store/books/details/Rokibul_Islam_Roni_The_Digital_Panopticon?id=ckTXEQAAQBAJ
 
 #### Kindle editions (Amazon)
